@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>学习前端开发技术，这一行文字会出现在浏览器页面的标签上</title>
+        <script>
+            window.onload = function(){
+                var oBtn = document.getElementsByTagName("input");
+                oBtn[0].onclick = function(){
+                    alert("凑友希那我的宝");
+                };
+            }
+        </script>
+        <meta name = "author" content = "Nazuki_da">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    </head>
+
+    <body>
+        <p>这是第一行</p>
+        <div id = "title">
+            <p>一键返回标题</p>
+        </div>
+        <p>会换行吗？</p>
+        <p>title的META标签有name属性（keywords， description， author， copyright）
+            会换行吗？
+            不会，所以还得加/p
+        </p>
+        <p>title还有equiv属性，定义网页所使用的编码和网页自动跳转刷新，其中确定编码是非常重要的</p>
+        <p>我靠不对劲孩子们，Google好像不支持utf-8</p>
+        <p>原来是我的电脑一直用的GB2312，自己吓自己</p>
+        <p>还有一个网页自动刷新和跳转的功能，在这里记录一下，就不写title里了："&lt;meta http-equiv="refresh" content = "6;url = https://oi-wiki.org/"/&gt;"</p>
+        <p>坏了，上一句好像放在body里面也会跳转，这玩意就没有注释这东西吗？</p>
+        <p>好吧可以用转义字符</p>
+        <p>我要输出一个足够长的一行++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++会自动换行吗？</p>
+        <p>还真会？</p>
+        <p>title的style标签用于定义元素的css样式，script用于定义JavaScript文件，link标签用于引入外部样式文件（css），现在先不用管他们</p>
+        <p>base标签一点意义都没有，也不用管了</p>
+        <h3>h3风格的标题来一个玩玩</h3>
+        <p>html的注释长成这样：&lt;!----&gt;</p><!--嗯这是一个注释-->
+        <p>好像挺简单哈</p>
+        <p></p>
+        <p>------------------------------------------------------------------------------------------</p>
+        <p></p>
+        <h2>一个HTML文件中有六种标题，h1-h6，这里用的是h2，一个HTML只能有一个h1，其他基本不限制</h2>
+        <p>欸不是，这标题凭啥自动换行啊</p>
+        <p>换行可以使用&lt;br/&gt;<br/>来进行换行，效果就像这两行</p>
+        <strong>这是粗体</strong>
+        <b>这还是粗体，但是这俩玩意竟然是连起来的</b><br/>
+        <b>粗体用strong（尽量使用）和b</b><br/>
+        <i>斜体</i><br/>
+        <em>斜体</em><br/>
+        <cite>还是斜体，斜体用i，em（尽量使用），cite</cite>
+        <p>这是上标标签<sup>2</sup>,sup</p>
+        <p>这是下标标签<sub>2</sub>,sub</p>
+        <p>这是下划线标签<u>2</u>,u</p>
+        <p>这是删除线标签<del>2</del>,del</p>
+        <p>这是中划线标签<s>2</s>,s</p>
+        <p>这是插入线标签<ins>2</ins>,ins</p>
+        <big>这是大字号文本</big><br/>
+        <small>这是小字号文本</small><br/>
+        <p>以下是水平线标签hr</p>
+        <hr/>
+        <div>
+            <p>这是div标签，div标签可以用来定义块级元素</p>
+            <p>说是至于为什么要这样等学了css再说</p>
+        </div>
+        <p><strong>自闭合标签有：meta（定义网页信息），link（引入css），br（换行），hr（水平线），img（图像），imput（表单）</strong></p>
+        <p>空格是&nbsp; &nbsp加上分号，一个汉字是三个空格（这个最重要）</p>
+        <p>双引号quot&quot;（英文）</p>
+        <p>单引号apos&quot;（英文）</p>
+        <p>小于号lt&lt;（英文）</p>
+        <p>大于号gt&gt;（英文）</p>
+        <p>空格nbsp;</p>
+        <p>&amp;amp</p>
+        <p>乘号times&times;</p>
+        <p>除号divide&divide;</p>
+        <p>加号plus&plus;</p>
+        <p>减号minus&minus;</p>
+        <p>等于号equals&equals;</p>
+        <p>长破折号&mdash;mdash</p>
+        <p>竖线&#124;&#124</p>
+        <p>版权&copy;</p>
+        <p>注册商标&reg;</p>
+        <p>商标&trade;</p>
+        <p>摄氏度&deg;C</p>
+        <p>华氏度&deg;F</p>
+        <p>分节符&sect;sect</p>
+        <p>左单引号（中文）&lsquo;lsquo</p>
+        <p>右单引号（中文）&rsquo;rsquo</p>
+        <p><b><i>以下是列表内容</i></b></p>
+        <ol>
+            <li>第一个</li>
+            <li>第二个</li>
+            <li>第三个</li>
+            <li>有序列表是ol</li>
+        </ol>
+        <hr/>
+        <ol type = "i">
+            <li>第一个</li>
+            <li>第二个</li>
+            <li>第三个</li>
+            <li>有序列表可以使用type属性更换编号样式</li>
+            <li>说是学了css之后会用list-style-type属性</li>
+        </ol>
+        <hr/>
+        <ul>
+            <li>第一个</li>
+            <li>第二个</li>
+            <li>第三个</li>
+            <li>无序列表是ul</li>
+            <li>无序列表同理，用type改图标</li>
+        </ul>
+        <hr/><!--這是橫綫-->
+        <p>无序列表比有序列表更常用</p>
+        <p><b>ul的子元素只能是li元素，并且文本只能在li里添加</b></p>
+        <dl><!--definition list-->
+            <dt>描述</dt><!--definition term-->
+            <dd>解释，這是定義列表</dd><!--definition description-->
+        </dl>
+        <hr/>
+        <p>表格：</p>
+        <table border = "1" width = "100%"><!--css-->
+            <caption>標題</caption>
+            <tr>
+                <th>第一列</th><!--table header cell-->
+                <th>第二列</th>
+                <th>第三列</th>
+            </tr>
+            <tr><!--table row-->
+                <td>1</td><!--table data cell-->
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+            </tr>
+        </table>
+        <hr/>
+        <p>以下是运用了表头表身注脚的表格，表格本身是没有边框的:(</p>
+        <thead>
+            <tr>
+                <th>第一列</th>
+                <th>第二列</th>
+                <th>第三列</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+            </tr>
+        </tfoot>
+        <p>行合并rowspan</p>
+        <p>列合并colspan</p>
+        <p>以下是举例</p>
+        <table border = "1" width = "100%">
+            <caption>標題</caption>
+            <tr>
+                <th>第一列</th>
+                <th>第二列</th>
+                <th>第三列</th>
+            </tr>
+            <tr>
+                <td rowspan = "2">1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+            </tr>
+        </table>
+        <hr/>
+        <table border = "1" width = "100%">
+            <caption>標題</caption>
+            <tr>
+                <th>第一列</th>
+                <th>第二列</th>
+                <th>第三列</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td colspan = "2">2</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+            </tr>
+        </table>
+        <img src = "D:\RE0\20241227185637.jpg">
+        <p>图片元素有src，alt，title元素，其中src是路径，alt是给搜索引擎看的（当图片无法显示时会显示这一段），title是用来给用户看的（当鼠标指针挪到上面时会显示文字）</p>
+        <img src = "20241227185637.jpg" alt = "壁纸" title = "壁纸">
+        <p>不联网就行</p>
+        <p>想要展示色彩丰富的高品质图片可以用jpg文件，一般的图片为了减少体积或者想要透明效果可以选用png，动图是gif</p>
+        <p>矢量图是一种用数字方式描述的图片，不管放大缩小都不会失真，常见格式有ai，cdr，fh，swf（常见）</p>
+        <p>网页内大部分图片都是位图而不是矢量图</p>
+        <hr/>
+        <p>超链接可以用a标签</p>
+        <a href="https://oi-wiki.org/">oi-wiki</a>
+        <p>同理，还有图片超链接本质是吧图片放进文字里</p>
+        <a href="https://oi-wiki.org/"><img src = "D:\RE0\20241227185637.jpg" alt = "壁纸" title = "壁纸"></a>
+        <p>target标签可以用来定义，跟在href属性后面</p>
+        <p>_self表示在原来窗口打开链接</p>
+        <p>_blank在新窗口打开链接</p>
+        <p>_parent在父窗口打开链接</p>
+        <p>_top在顶层窗口打开超链接</p>
+        <p>内部页面用的是相对路径，用超链接进行传送</p>
+        <hr/>
+        <p>以下是锚点链接</p>
+        <a href = "#title"><u>一键返回标题</u></a>
+        <hr/>
+        <p>以下是表单form</p>
+        <p>表单是基本的动态页面</p>
+        <form>
+            <input type = "text" value = "this is a 1 row box"/>
+            <textarea rows = "10" cols = "50">this is a long row and column box</textarea><br/>
+            <select>
+                <option>html</option>
+                <option>css</option>
+                <option>js</option>
+            </select>
+        </form>
+        <p>form 标签有很多属性，name属性用来给表单命名，method标签用于指定http提交方式，常用post，action属性用来决定表单数据提交到哪里进行处理，target用来指定窗口打开方式（通常用_blank），enctype属性用于指定表单数据提交的编码方式，用来提交文件</p>
+        <p>input标签有很多属性，type属性用来指定输入框类型（text单行文本框，password密码文本框，radio单选框，checkbox多选框，button、submit、reset按钮，file文件上传），value属性用来指定输入框默认值</p>
+        <table border="11" width = "100%">
+            <thead>
+                <tr>
+                    <th>value</th>
+                    <th>size</th>
+                    <th>maxlenth</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>设置默认值，即默认情况下表单内部显示的文字</th>
+                    <th>文本框长度</th>
+                    <th>最大输入字符数量</th>
+                </tr>
+            </tbody>
+        </table>
+        <p>password有的变量和text一样</p>
+        <p>radio实现单选框</p>k
+        <form method = "post">
+            谁最可爱：
+            <input type = "radio" name = "gender" value = "凑友希那" checked/>凑友希那
+            <input type = "radio" name = "gender" value = "ykn" />ykn
+        </form>
+        <p>多选框checkbox同理</p>
+        <p>button通常和JavaScript一起使用</p>
+        <form method = "post">
+            <input type = "button" value = "给全世界最好的凑友希那" />
+        </form>
+        <p>下拉式选择用select，别拼错了……</p>
+        <select>
+            <option>html</option>
+            <option>css</option>
+            <option>js</option>
+        </select>
+        <select multiple>
+            <option>html</option>
+            <option>css</option>
+            <option>js</option>
+            <option>jQuery</option>
+        </select>
+        <p>爷累了，不想做笔记了，看一遍得了</p>
+    </body>
+</html>

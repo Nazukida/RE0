@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RE0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RE0\\Nazuki45[\u5206\u89E3\u56E0\u6570].c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nazuki45[\u5206\u89E3\u56E0\u6570].c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RE0\\Nazuki45[\u5206\u89E3\u56E0\u6570].exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nazuki45[\u5206\u89E3\u56E0\u6570].exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RE0\\Nazuki49.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nazuki49.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RE0\\Nazuki50.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nazuki50.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nazuki45[\u5206\u89E3\u56E0\u6570].exe",
+              "DocumentMoniker": "D:\\RE0\\Nazuki45[\u5206\u89E3\u56E0\u6570].exe",
+              "RelativeDocumentMoniker": "Nazuki45[\u5206\u89E3\u56E0\u6570].exe",
+              "ToolTip": "D:\\RE0\\Nazuki45[\u5206\u89E3\u56E0\u6570].exe",
+              "RelativeToolTip": "Nazuki45[\u5206\u89E3\u56E0\u6570].exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-02T12:43:52.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nazuki45[\u5206\u89E3\u56E0\u6570].c",
+              "DocumentMoniker": "D:\\RE0\\Nazuki45[\u5206\u89E3\u56E0\u6570].c",
+              "RelativeDocumentMoniker": "Nazuki45[\u5206\u89E3\u56E0\u6570].c",
+              "ToolTip": "D:\\RE0\\Nazuki45[\u5206\u89E3\u56E0\u6570].c",
+              "RelativeToolTip": "Nazuki45[\u5206\u89E3\u56E0\u6570].c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-02T12:40:30.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nazuki49.c",
+              "DocumentMoniker": "D:\\RE0\\Nazuki49.c",
+              "RelativeDocumentMoniker": "Nazuki49.c",
+              "ToolTip": "D:\\RE0\\Nazuki49.c",
+              "RelativeToolTip": "Nazuki49.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-02T12:40:26.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nazuki50.c",
+              "DocumentMoniker": "D:\\RE0\\Nazuki50.c",
+              "RelativeDocumentMoniker": "Nazuki50.c",
+              "ToolTip": "D:\\RE0\\Nazuki50.c",
+              "RelativeToolTip": "Nazuki50.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-02T12:38:37.403Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
