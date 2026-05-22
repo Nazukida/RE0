@@ -1,0 +1,312 @@
+[
+  {
+    "name": "NOWCODERUID",
+    "value": "AE9941A482DA252923DEDC3FE05F97EF",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1790508308.679189,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "NOWCODERCLINETID",
+    "value": "F3F3C3CD5C933EF745CFC3286FAF96CE",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1809516308.679223,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HMACCOUNT_BFESS",
+    "value": "1ACF04E951114DEF",
+    "domain": ".hm.baidu.com",
+    "path": "/",
+    "expires": 1809516309.641446,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "Hm_lvt_a808a1326b6c06c437de769d1b85b870",
+    "value": "1774956310",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1806548036,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "HMACCOUNT",
+    "value": "1ACF04E951114DEF",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gr_user_id",
+    "value": "f4df5f75-14ad-4ef0-93ce-4ce91406ca0c",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1809572036.459294,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_bl_uid",
+    "value": "kzmz8nqne3bj8m5v4pXet84rdb2L",
+    "domain": "www.nowcoder.com",
+    "path": "/",
+    "expires": 1790508309.759564,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__snaker__id",
+    "value": "WAwVHcPxYEW24bjA",
+    "domain": "www.nowcoder.com",
+    "path": "/",
+    "expires": 1806492312,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gdxidpyhxdE",
+    "value": "cAre9%2B0QOkTBhutwWNgWi3Ew0IrNNBPll%5CA4tPJITO0O6L0D4JBpYZ7m%2FXAY6bx7jneiYcvMcHan9zTDTdz6etq5Ex%2B3Dk74KZVeLYPVIyUAZJpITfjYvlNeQNZplg%2F9Do7xWKcrNOrLHjLtT92TXhMci38zSf6MCmf%2BaxK9bARYiuO6%3A1774957214880",
+    "domain": "www.nowcoder.com",
+    "path": "/",
+    "expires": 1777549214,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "isAgreementChecked",
+    "value": "true",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1777634736,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "t",
+    "value": "46201CD7C127DF0410159D3ECC12E91B",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1775561137.734285,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "csrfToken",
+    "value": "eh4VvOus5tDCwr8F6kR_MV3t",
+    "domain": "www.nowcoder.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "c196c3667d214851b11233f5c17f99d5_gr_last_sent_cs1",
+    "value": "870680996",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1809572051.498586,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "t",
+    "value": "46201CD7C127DF0410159D3ECC12E91B",
+    "domain": ".zhiyeapp.com",
+    "path": "/",
+    "expires": 1782788036.986591,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ls_sess_id",
+    "value": "46201CD7C127DF0410159D3ECC12E91B",
+    "domain": ".zhiyeapp.com",
+    "path": "/",
+    "expires": 1782788036.986713,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "username",
+    "value": "%E8%83%A1%E5%86%AC%E6%99%BA",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1783652036.404682,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "username.sig",
+    "value": "nfUYbM-GNZPJGoal0jzRXFbrzlNAYwLIeLOpQwtvu0A",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1783652036.404858,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "uid",
+    "value": "870680996",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1783652036.404922,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "uid.sig",
+    "value": "ha-A3b4nw27KLlUVLtYgKy2yUbWWSy2TYp9v4i2NLnY",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1783652036.405003,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "acw_tc",
+    "value": "0a18ab6917750108822054533e546ca3a53b614bf10db75a4e2becbf3ce840",
+    "domain": "www.nowcoder.com",
+    "path": "/",
+    "expires": 1775012683.792753,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "acw_tc",
+    "value": "8be3e61b17750108836663992e7cf71c415abb8e5513c34503aa2e95f9",
+    "domain": "uploadfiles.nowcoder.com",
+    "path": "/",
+    "expires": 1775014484.55948,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cdn_sec_tc",
+    "value": "8be3e61b17750108836663992e7cf71c415abb8e5513c34503aa2e95f9",
+    "domain": "uploadfiles.nowcoder.com",
+    "path": "/",
+    "expires": 1775014484.55953,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "c196c3667d214851b11233f5c17f99d5_gr_session_id",
+    "value": "a38d6f69-1097-47e1-bb67-8eb590793d3c",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1775013851,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "c196c3667d214851b11233f5c17f99d5_gr_last_sent_sid_with_cs1",
+    "value": "a38d6f69-1097-47e1-bb67-8eb590793d3c",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1775013851,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "c196c3667d214851b11233f5c17f99d5_gr_session_id_a38d6f69-1097-47e1-bb67-8eb590793d3c",
+    "value": "true",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1775013851,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "acw_tc",
+    "value": "0a03837d17750108847901680e255d32b37e41a11b21e6664fba17f5f573e5",
+    "domain": "nowpick.nowcoder.com",
+    "path": "/",
+    "expires": 1775012685.770947,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "acw_tc",
+    "value": "0a15e15817750108847434457e55fd8dc5faf6c7bf4e01a585972174a72223",
+    "domain": "gw-c.nowcoder.com",
+    "path": "/",
+    "expires": 1775012686.353027,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SERVERID",
+    "value": "57020b57ddff8867087e09a222bb047a|1775012035|1775010882",
+    "domain": "www.nowcoder.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SERVERCORSID",
+    "value": "57020b57ddff8867087e09a222bb047a|1775012035|1775010882",
+    "domain": "www.nowcoder.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "Hm_lpvt_a808a1326b6c06c437de769d1b85b870",
+    "value": "1775012037",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "c196c3667d214851b11233f5c17f99d5_gr_cs1",
+    "value": "870680996",
+    "domain": ".nowcoder.com",
+    "path": "/",
+    "expires": 1809572051.498627,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

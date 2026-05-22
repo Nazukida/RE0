@@ -1,0 +1,10 @@
+num_classes: 2
+batch_size: 32
+epochs: 50
+learning_rate: 0.001
+dataset_path: "D:/competition/RM/yolo/archive/PetImages"
+image_size: 224
+model_name: "MobilePetNet"
+early_stopping_patience: 5
+log_dir: "logs"
+save_dir: "checkpoints"
